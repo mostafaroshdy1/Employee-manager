@@ -21,7 +21,7 @@ Employee Manager is a simple web-based application built with PHP and XML to man
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/employee-manager.git
+   git clone https://github.com/mostafaroshdy1/Employee-manager.git
    ```
 
 2. Ensure PHP is installed on your system.
